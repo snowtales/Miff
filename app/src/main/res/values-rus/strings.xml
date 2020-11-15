@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ММКФ 2020</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="october">окт</string>
+    <string name="opened_event">Открытый</string>
+    <string name="closed_event">Закрытый</string>
+    <string name="press_preview">Пресс-показ</string>
+    <string name="free_access">Свободно</string>
+    <string name="news">новости</string>
+    <string name="films">фильмы</string>
+    <string name="events">события</string>
+    <string name="moscow">московский</string>
+    <string name="international">международный</string>
+    <string name="film">кино</string>
+    <string name="festival">фестиваль</string>
+    <string name="about">О фестивале</string>
+    <string name="search">Поиск</string>
+</resources>

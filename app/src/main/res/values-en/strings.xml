@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MIFF 2020</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="october">oct</string>
+    <string name="opened_event">public</string>
+    <string name="closed_event">private</string>
+    <string name="press_preview">press show</string>
+    <string name="free_access">free access</string>
+    <string name="news">news</string>
+    <string name="films">films</string>
+    <string name="events">events</string>
+    <string name="moscow">moscow</string>
+    <string name="international">international</string>
+    <string name="film">film</string>
+    <string name="festival">festival</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+</resources>
